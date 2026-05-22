@@ -21,7 +21,7 @@ Prerequisites
 •	pip package manager
 Installation
 # Clone the repository
-git clone https://github.com/divine0472/blueshield.git
+git clone https://github.com/divine0472/BlueShield.git
 cd blueshield
 
 # Install dependencies
